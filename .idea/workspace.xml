@@ -150,8 +150,16 @@
       <workItem from="1645625257468" duration="2862000" />
       <workItem from="1645632740410" duration="3335000" />
       <workItem from="1645668080976" duration="10789000" />
-      <workItem from="1645683676209" duration="459000" />
+      <workItem from="1645683676209" duration="916000" />
     </task>
+    <task id="LOCAL-00001" summary="品牌管理大概完成">
+      <created>1645687110639</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645687110639</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
